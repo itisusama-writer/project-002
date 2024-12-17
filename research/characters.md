@@ -1,4 +1,8 @@
-- Sadaf: Owner of She Beauty Saloon.
+- {Sadaf}: Owner of She Beauty Saloon.
 - [Secret Team]
 - {Secret Team Main Head}
 - [Cusinology Channel]
+- {Ali}: Main head of [Cusinology Channel]
+- {Asim}: Sadaf's Husband
+- {Alizah}: Elder Daughter 
+- {Alisha}: Yoinger Daughter
